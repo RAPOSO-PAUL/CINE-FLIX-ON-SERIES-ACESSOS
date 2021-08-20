@@ -1,7 +1,7 @@
 <item>
 <title>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white] Ilha de Segredos[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GQR6r6FooQc$nome=[B][COLOR red]Trailer [/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad551a49acdea15e6d1965bea44fc4c9bbbb9ce7$nome=[B]DUBLADO 1080p [/B]</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GQR6r6FooQc$$lsname=[B][COLOR red]Trailer [/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad551a49acdea15e6d1965bea44fc4c9bbbb9ce7$$lsname=[B]DUBLADO 1080p [/B]</link>
 <thumbnail>https://i.ibb.co/sQf596c/ilha-de-segredos-elementum.jpg</thumbnail>
 <fanart>https://i.ibb.co/yP50w29/ilha-de-segredos-elementum-fanart.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
