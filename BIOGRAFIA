@@ -139,10 +139,10 @@
 
 <item>
 <title>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white] Snowden[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c2b18ab5350f02fa5970fcb0650bc46c2b8f8a$nome=[B]DUBLADO 720p [/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53bbc8a277397a5ce110cbc3a598d390f44b54b5$nome=[B]DUBLADO 1080p [/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13ce51468985d1d55bca77c291c21de16a2ffb47$nome=[B]DUAL ÁUDIO 720p [/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c472bd2d0e8dab3e16170cb37f9f66b809d5dd0a$nome=[B]DUAL ÁUDIO 1080p [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c2b18ab5350f02fa5970fcb0650bc46c2b8f8a$$lsname=[B]DUBLADO 720p [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53bbc8a277397a5ce110cbc3a598d390f44b54b5$$lsname=[B]DUBLADO 1080p [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13ce51468985d1d55bca77c291c21de16a2ffb47$$lsname=[B]DUAL ÁUDIO 720p [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c472bd2d0e8dab3e16170cb37f9f66b809d5dd0a$$lsname=[B]DUAL ÁUDIO 1080p [/B]</link>
 <thumbnail>https://i.ibb.co/LYQnPhQ/snowden.jpg</thumbnail>
 <fanart>https://i.ibb.co/pKK1M0D/snowden-fanart.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2016[/COLOR]
