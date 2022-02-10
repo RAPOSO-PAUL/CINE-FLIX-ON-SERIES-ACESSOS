@@ -26,9 +26,9 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
 <thumbnail>https://i.ibb.co/6FcBvW3/netflix.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/NETFLIX</externallink>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-TEMPORADAS/main/NETFLIX</externallink>
 <fanart>https://i.ibb.co/zNgX4V2/netflix-fanart.jpg</fanart>
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - A Netflix é um serviço de transmissão online que oferece uma ampla variedade de séries, filmes e documentários premiados em milhares de aparelhos conectados à ...[/B][/COLOR]</info>
 </channel>
