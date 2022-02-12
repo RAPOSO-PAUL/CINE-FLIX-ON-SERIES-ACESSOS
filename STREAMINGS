@@ -1,71 +1,8 @@
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DISNEY PLUS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/dghvWBM/disney-plus.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/DISNEY-PLUS</externallink>
-<fanart>https://i.ibb.co/crMY7j2/disney-plus-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Disney, Pixar, Marvel, Star Wars e National Geographic em um só lugar.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HBO MAX[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/Fb7mj8q/hbo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/HBO-MAX</externallink>
-<fanart>https://i.ibb.co/YtxJ8NX/hbo-max-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Encontre o Melhor do Entretenimento Aqui, Com Lançamentos Exclusivos e Produções Originais.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LOOKE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/SJ8PBBF/looke.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/LOOKE</externallink>
-<fanart>https://i.ibb.co/Vv5WMpN/looke-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Looke é uma plataforma brasileira de distribuição digital de vídeos via streaming lançada em abril de 2015.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR green] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/6FcBvW3/netflix.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-TEMPORADAS/main/NETFLIX</externallink>
 <fanart>https://i.ibb.co/zNgX4V2/netflix-fanart.jpg</fanart>
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - A Netflix é um serviço de transmissão online que oferece uma ampla variedade de séries, filmes e documentários premiados em milhares de aparelhos conectados à ...[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NOW[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/6vXXFwp/now.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/NOW</externallink>
-<fanart>https://i.ibb.co/VpxqQ3s/now-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - É uma plataforma exclusiva para clientes Claro assistirem aos lançamentos do cinema, séries, conteúdos gratuitos, infantil, programas de TV, esportes, notícias ao vivo e muito mais! E o melhor, de qualquer tela e sempre que quiser![/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PRIME VIDEO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/rwKDBX3/prime.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/PRIME-VIDEO</externallink>
-<fanart>https://i.ibb.co/TvYzMZC/prime-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Prime Video, é um serviço de vídeo sob demanda pela Amazon disponível em mais de 200 países.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]STAR[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/rmNpSZF/star-logo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/STAR</externallink>
-<fanart>https://i.ibb.co/NytdbTQ/star-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Star é um centro de conteúdo dentro do serviço de streaming Disney+ para conteúdo de televisão e filme destinado a um público adulto.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TELECINE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
-<thumbnail>https://i.ibb.co/XfHjjvg/telecine.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS-LEIA/main/TELECINE</externallink>
-<fanart>https://i.ibb.co/zHQqXbh/telecine-fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Telecine é uma rede de canais, sendo focado em filmes que saíram do cinema.[/B][/COLOR]</info>
 </channel>
 </channels>
