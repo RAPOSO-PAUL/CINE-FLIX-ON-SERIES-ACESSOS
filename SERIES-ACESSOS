@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]0-9 | A-Z[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/kXCJxMS/alfabeto-on.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-TEMPORADAS/main/POR-ORDEM-ALFABETICA</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Lista das Séries em ordem alfabetica.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]TODAS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/2d15Dyx/TODOS-ON.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-TEMPORADAS/main/TODOS</externallink>
