@@ -71,6 +71,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]PRIME VIDEO[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/rwKDBX3/prime.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/PRIME-VIDEO</externallink>
+<fanart>https://i.ibb.co/TvYzMZC/prime-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Prime Video, é um serviço de vídeo sob demanda pela Amazon.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]STAR PLUS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/rmNpSZF/star-logo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/STAR-PLUS</externallink>
