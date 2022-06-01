@@ -87,3 +87,12 @@
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Star é um centro de conteúdo dentro do serviço de streaming Disney+ para conteúdo de televisão e filme destinado a um público adulto.[/B][/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]OUTROS STREAMINGS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://ibb.co/JydctRM</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/OUTROS-STREAMINGS</externallink>
+<fanart>https://ibb.co/HNTsbQ2</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Demais streamings.[/B][/COLOR]</info>
+</channel>
+</channels>
