@@ -8,6 +8,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]A-B[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/B6QCj5y/A-B-ON.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/A-B-SERIES</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Lista das Séries A-B.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]C-D[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/3RyQPtB/c-d-on.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/C-D-SERIES</externallink>
