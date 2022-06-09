@@ -169,6 +169,19 @@ SERIES 2013
 </channel> 
 </channels>
 
+SERIES 2010
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]THE WALKING DEAD[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/MkMs0qt/twd-on.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/THE-WALKING-DEAD</externallink>
+<fanart>https://i.ibb.co/2gR2yRc/twd-on-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2010[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
 SERIES 1994
 
 <channels>
@@ -182,6 +195,19 @@ SERIES 1994
 </channel> 
 </channels>
 
+SERIES 1990
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]TICO E TECO: DEFENSORES DA LEI[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://i.ibb.co/pZm4z4t/tico-e-teco-1990-on.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/TICO-TECO-DEFENSORES-DA-LEI</externallink>
+<fanart>https://i.ibb.co/brvS2MN/tico-e-teco-1990-on-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1990[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Tico e Teco lideram um grupinho excêntrico de personagens animais que monitoram não apenas o mundo "humano", mas também o mundo animal, resolvendo mistérios onde quer que estejam. Os "Defensores da Lei" resolvem casos sem solução.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
 SERIES 1973
 
 <channels>
@@ -192,16 +218,5 @@ SERIES 1973
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1973[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Comédia[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Criado por Roberto Gómes Bolaños, Chaves fez sucesso no Brasil como uma comédia leve e divertida sobre moradores de um vila cheia de confusões. Chaves, Chiquinha, Quico, Seu Madruga, Dona Florina, Bruxa do 71 e muitos outros fazem parte desse seriado divertido.[/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]THE WALKING DEAD[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
-<thumbnail>https://i.ibb.co/MkMs0qt/twd-on.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/THE-WALKING-DEAD</externallink>
-<fanart>https://i.ibb.co/2gR2yRc/twd-on-fanart.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2010[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[/B][/COLOR]</info>
 </channel> 
 </channels>
