@@ -78,3 +78,12 @@
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Lista das Séries U-V.[/B][/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]X-W[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Lz4fvDJ/x-w-on.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-ALFABETO/main/X-W-SERIES</externallink>
+<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Lista das Séries X-W.[/B][/COLOR]</info>
+</channel>
+</channels>
