@@ -1,4 +1,16 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]FUBAR[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/FUBAR</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/bRopPJWt41X3A3GJ9Lzdd1Tmajy.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2023[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Um agente da CIA prestes a se aposentar descobre um segredo de família e precisa desempenhar uma última (e inesperada) missão.
+[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]FEAR THE WALKING DEAD[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/cUAvL3NJRFaTu2o98ObzfyV3Q2G.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/FEAR-THE-WALKING-DEAD</externallink>
