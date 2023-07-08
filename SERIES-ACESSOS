@@ -26,29 +26,11 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]LANÇAMENTOS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/phqWnrC/lancamentos-on.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/LANCAMENTOS</externallink>
 <fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Lançamentos das Séries.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]COMÉDIA[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
-<thumbnail>https://i.ibb.co/jynnqhd/comedia-on.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/COMEDIA</externallink>
-<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Isso Issso Isso... [/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]HERÓIS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
-<thumbnail>https://i.ibb.co/R97Vgcd/HEROIS-on.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/HEROIS</externallink>
-<fanart>https://i.ibb.co/pJzTz8t/fanart.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Shakespeare na Área... [/B][/COLOR]</info>
 </channel>
 </channels>
 
