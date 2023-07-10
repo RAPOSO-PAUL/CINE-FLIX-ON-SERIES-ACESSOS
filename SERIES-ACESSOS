@@ -35,6 +35,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]GLOBOPLAY[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/JmT933t/globoplay.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/GLOBOPLAY</externallink>
+<fanart>https://i.ibb.co/QC0p3D3/globoplay-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Globoplay é uma plataforma digital de streaming de vídeos e áudios sob demanda, desenvolvida e operada pela Globo.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/6FcBvW3/netflix.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/NETFLIX</externallink>
