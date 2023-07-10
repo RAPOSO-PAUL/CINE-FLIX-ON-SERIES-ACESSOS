@@ -1,13 +1,4 @@
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]EPISÓDIOS ATUAIS[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
-<thumbnail>https://i.ibb.co/Y2CzY0H/lancamentos-netflix-agosto-2022-750x430.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/main/ULTIMOS-EPISODIOS</externallink>
-<fanart>https://www.seriesdatv.pt/wp-content/uploads/2022/04/Calendario-de-Estreias-2022-sem-letras.jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Uma Opção Rápida para assistir o episódio da sua série favorita.[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]0-9 | A-Z[/COLOR][COLOR green] || [/COLOR][COLOR white]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/kXCJxMS/alfabeto-on.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-ACESSOS/main/POR-ORDEM-ALFABETICA</externallink>
