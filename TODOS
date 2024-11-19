@@ -190,14 +190,13 @@ SERIES 2022
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]THE CHOSEN - ESCOLHIDOS[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/3fY4xLjZc8ee83cP2nvq1pt0wmS.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/main/THE-CHOSEN-ESCOLHIDOS</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/dWR0w9KwoAnoM5bZgE6tr4HjQIb.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Biografia[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.
-[/B][/COLOR]</info>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]The Chosen Os Escolhidos[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/THE-CHOSEN-ESCOLHIDOS</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/wbCBwxwdXQam3e31e5F42IGxF99.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9koXkcmG5jjL8l8fNczHzQHWUx5.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Fé[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Aprofundando-se nas histórias de fundo e no contexto das pessoas e eventos dos evangelhos, a Primeira Temporada do projeto de mídia de maior financiamento coletivo pelo público de todos os tempos apresenta pessoas como Simão Pedro, Nicodemos, Maria Madalena, Mateus e, claro, Jesus de uma forma nunca antes vista em filme.[/B][/COLOR]</info>
 </channel> 
 </channels>
 
