@@ -1,4 +1,16 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Stranger Things[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/STRANGER-THINGS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8zbAoryWbtH0DKdev8abFAjdufy.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Suspense[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Hawkins está marcado pela abertura das Fendas, e nossos heróis estão unidos por um único objetivo: encontrar e matar Vecna. Mas ele desapareceu — seu paradeiro e planos são desconhecidos. Para complicar a missão, o governo colocou a cidade em quarentena militar e intensificou a busca por Onze, forçando-a a se esconder novamente. À medida que o aniversário do desaparecimento de Will se aproxima, um medo pesado e familiar também se aproxima. A batalha final se aproxima — e com ela, uma escuridão mais poderosa e mortal do que qualquer coisa que já enfrentaram. Para acabar com esse pesadelo, eles precisarão de todos — o grupo inteiro — unidos, uma última vez.
+[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]SAKAMOTO DAYS[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/r0HRGXV1Vt3KN9irKpZnVKDuv9r.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/SAKAMOTO-DAYS</externallink>
