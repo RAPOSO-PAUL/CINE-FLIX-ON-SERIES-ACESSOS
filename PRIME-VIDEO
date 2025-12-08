@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Pluribus[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/p9J7CXVI5gjkyUo6trV7m85gssW.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/PLURIBUS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama	[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]A pessoa mais triste da Terra deve salvar o mundo da felicidade.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Robin Hood[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/8rc0CmErcqvncULcq5IEVkBvbHP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/ROBIN-HOOD</externallink>
