@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]Homem X Bebê [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/bpdbNhkrZCso4E08BQvk1dLlnxm.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/HOMEM-X-BEBE-1-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/oMtstoTyGhyxwiuwPRtnq3UO08s.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Comédia[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Perto do Natal, um caseiro atrapalhado precisa tomar conta de uma cobertura chique e ainda lidar com um problema inesperado: um bebê perdido.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]One Piece [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/ONE-PIECE-1-TEMPORADA</externallink>
