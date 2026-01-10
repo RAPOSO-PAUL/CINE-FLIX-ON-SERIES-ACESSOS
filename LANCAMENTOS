@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]Fallout [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/cP7Wxny1ZsuVOb6mFYP4seFx3cY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/FALLOUT-2-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tlzOFkG8ZZuycFijYvMqsHdSYvh.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Fantasia[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]O que diz disso, Srta. MacLean?[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]Percy Jackson e os Olimpianos [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/4sLiVmCiRiX9abW4niJyNZx15bK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/PERCY-JACKSON-E-OS-OLIMPIANOS-2-TEMPORADA</externallink>
@@ -39,17 +50,6 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Quando a aventureira Lara Croft descobre um rastro de máscaras de orixás africanos roubadas, ela une forças com seu melhor amigo, Sam, para recuperar os preciosos artefatos. A emocionante nova aventura de Lara a leva ao redor do mundo enquanto ela mergulha nos segredos ocultos da história dos orixás, desviando-se das maquinações de uma bilionária perigosa e enigmática que deseja as máscaras para si, e descobrindo que essas relíquias contêm segredos sombrios e um poder que desafia a lógica. Um poder que pode, na verdade, ser divino.[/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR green]|| [/COLOR][COLOR white]Fallout [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/cP7Wxny1ZsuVOb6mFYP4seFx3cY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/FALLOUT-2-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/original/tlzOFkG8ZZuycFijYvMqsHdSYvh.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Fantasia[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]O que diz disso, Srta. MacLean?[/B][/COLOR]</info>
 </channel> 
 </channels>
 
