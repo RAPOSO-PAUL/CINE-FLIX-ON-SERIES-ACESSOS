@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]Spartacus: House of Ashur [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/vNByuzy60v31nmUVPMA8oAtneUK.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/SPARTACUS-HOUSE-OF-ASHUR-1-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]E se Ashur tivesse sobrevivido e ganhado o ludus onde antes sangrou? Com Achillia, uma gladiadora, ele cria espetáculos que desafiam Roma e chocam a elite.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]Custe o que Custar [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/sneYTU5eo7BNShFFsy5rEH8cGCk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/CUSTE-O-QUE-CUSTAR-1-TEMPORADA</externallink>
@@ -105,17 +116,6 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1999[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Monkey D. Luffy tem o sonho de encontrar o lendário tesouro One Piece e se tornar o Rei dos Piratas. Após comer a Fruta do Diabo Gomu Gomu no Mi, ele ganha o poder de esticar seu corpo como borracha. Luffy parte em uma jornada pelos mares, começando no East Blue, onde recruta companheiros para sua tripulação: o espadachim Roronoa Zoro, a navegadora Nami, o atirador Usopp e o cozinheiro Sanji. Juntos, enfrentam piratas perigosos, a Marinha e outros obstáculos enquanto seguem rumo à Grand Line em busca de aventuras e do tesouro lendário.[/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR green]|| [/COLOR][COLOR white]Spartacus: House of Ashur [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/vNByuzy60v31nmUVPMA8oAtneUK.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/SPARTACUS-HOUSE-OF-ASHUR-1-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/original/wIysQFRoro0DsNRMjFUoiTxbt5.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Drama[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]E se Ashur tivesse sobrevivido e ganhado o ludus onde antes sangrou? Com Achillia, uma gladiadora, ele cria espetáculos que desafiam Roma e chocam a elite.[/B][/COLOR]</info>
 </channel> 
 </channels>
 
