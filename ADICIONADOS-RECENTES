@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]Star Trek: Academia da Frota Estelar [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/g0cMwV9JQ2uFR7TSgiofViDtfTx.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/STAR-TREK-ACADEMIA-DA-FROTA-ESTELAR-1-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/fStyKyKB7zTfBqNNXCBc3Z4P4OL.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Apresenta um grupo de cadetes que se unem para perseguir um sonho comum de esperança e otimismo. Sob o olhar atento de seus instrutores, eles descobrem o que é preciso para se tornarem oficiais da Frota Estelar.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]Georgie e Mandy - Seu Primeiro Casamento [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/e1a7Q4muuf0X4504r35krf3X6HO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/GEORGE-E-MANDY-SEU-PRIMEIRO-CASAMENTO-2-TEMPORADA</externallink>
@@ -292,16 +303,5 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Heróis[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Tudo muda quando Mark é obrigado a encarar seu passado e futuro, descobrindo quão longe ele vai ter de chegar para proteger quem ama. [/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR green]|| [/COLOR][COLOR white]Demolidor: Renascido [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/eODcpeaj6jFoVG1kBVpNFyFh45I.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/DEMOLIDOR-RENASCIDO-1-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/original/7bNw4yfFQOWXZKKMFxFWIbFmsys.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Heróis[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Matt Murdock, um advogado cego com habilidades fantásticas, luta por justiça através de seu agitado escritório de advocacia, enquanto o ex-chefe do crime Wilson Fisk busca seus próprios empreendimentos políticos em Nova Iorque. Quando suas identidades passadas começam a emergir, seus caminhos se cruzam perigosamente. [/B][/COLOR]</info>
 </channel> 
 </channels>
