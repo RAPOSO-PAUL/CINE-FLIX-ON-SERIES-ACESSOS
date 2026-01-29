@@ -10,17 +10,6 @@
 </channels>
 
 <channels>
-<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Georgie e Mandy - Seu Primeiro Casamento[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/vGYJfuPkhyuV1fDLFwkNcZx2qcY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/GEORGE-E-MANDY-SEU-PRIMEIRO-CASAMENTO</externallink>
-<fanart>https://image.tmdb.org/t/p/original/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Comédia[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Esta sequência acompanha Georgie e Mandy conforme eles criam sua jovem família no Texas e navegam da vida adulta, da paternidade e do casamento.[/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]ALL HER FAULT[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/ALL-HER-FAULT</externallink>
@@ -88,6 +77,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Georgie e Mandy - Seu Primeiro Casamento[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/vGYJfuPkhyuV1fDLFwkNcZx2qcY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/GEORGE-E-MANDY-SEU-PRIMEIRO-CASAMENTO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Comédia[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Esta sequência acompanha Georgie e Mandy conforme eles criam sua jovem família no Texas e navegam da vida adulta, da paternidade e do casamento.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Fallout[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/cP7Wxny1ZsuVOb6mFYP4seFx3cY.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/FALLOUT</externallink>
@@ -95,6 +95,17 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2024[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Fantasia[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Baseada em uma das maiores séries de videogame de todos os tempos, Fallout é a história de quem tem e de quem não tem, em um mundo onde não existe quase nada para se ter. 200 anos após o apocalipse, uma habitante pacífica de um agradável refúgio é forçada a se aventurar na superfície e fica chocada quando descobre a terra devastada que a espera.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Sequestro[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/troZphy0jUtlrmvaQ1ace1KGUEr.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/SEQUESTRO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/90PZd3xsi2G60thvYCwJ2GL2sRN.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2023[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]O experiente negociador Sam Nelson está prestes a viver a aventura de sua vida — assim como todos os que estão a bordo com ele — depois que um grupo de sequestradores assume o controle. Sam tentará todas as estratégias de seu repertório para derrotá-los... enquanto os riscos aumentam a cada segundo.[/B][/COLOR]</info>
 </channel> 
 </channels>
 
