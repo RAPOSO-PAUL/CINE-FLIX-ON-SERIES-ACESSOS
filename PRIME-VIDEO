@@ -10,6 +10,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]I Love LA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/I-LOVE-LA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/52h1FHwHLVG7oafzHTAJkmUKNMu.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Comédia[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Um grupo de amigos codependentes enfrenta as complexidades da ambição, do amor e das verdades difíceis da vida adulta em uma frenética cidade.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]ALL HER FAULT[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/ALL-HER-FAULT</externallink>
