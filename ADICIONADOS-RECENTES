@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]The Pitt [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]2 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/THE-PITT-2-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1xpmAon3GfhtXH2KPNvhxZY6cEq.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]O Cavaleiro dos Sete Reinos [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]1 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/whIZtYminSyVOwjxhjxYcOaCuBg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/O-CAVALEIRO-DOS-SETE-REINOS-1-TEMPORADA</externallink>
@@ -314,16 +325,5 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação	[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Taro Sakamoto já foi o maior assassino de aluguel de todos os tempos, mas largou tudo por amor. Agora, com o passado à espreita, ele vai ter que lutar como nunca. [/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR green]|| [/COLOR][COLOR white]A Roda do Tempo [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]3 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/dCEIpgPohZK7f3FsXLPhG0aprGr.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/A-RODA-DO-TEMPO-3-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/original/AfUI82jU67HFLMjMcaXP9r3Rxxf.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Com os Amaldiçoados soltos pelo mundo, os heróis da Luz precisam traçar seus próprios caminhos e reunir forças ocultas para enfrentarem as Trevas dentro de si próprios. [/B][/COLOR]</info>
 </channel> 
 </channels>
