@@ -10,6 +10,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]The Pitt[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/bdvRQekHfFxwxuLEUO1YfJAsvXF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/THE-PITT</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]A equipe do Centro Médico de Emergência de Pittsburgh trabalha para salvar vidas em um departamento de emergência superlotado e carente de recursos.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]I Love LA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/6xrLXEQABvoVwGka9KDDAOt4lFs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/I-LOVE-LA</externallink>
