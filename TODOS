@@ -440,6 +440,17 @@ SERIES 2024
 SERIES 2022
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Bel-Air[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/nyMSWgmePY4I3rJGcwaXzXhIChf.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/BEL-AIR</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zHdQ6yaqDf3OQO5uhr0auAgwK6O.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Situado na América moderna, a série oferece uma nova e dramática visão da jornada de mudança de vida de Will, das ruas do oeste da Filadélfia às mansões fechadas de Bel-Air. Deixando para trás a única casa que ele já conheceu por uma segunda chance em um lugar desconhecido, Will vê sua vida virar de cabeça para baixo ao encontrar novos desafios e preconceitos em um mundo de riqueza e aspiração.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Reacher[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/REACHER</externallink>
