@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR green]|| [/COLOR][COLOR white]A Casa do Dragão [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]3 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/CASA-DO-DRAGAO-3-TEMPORADA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/h37hqVLmCW00ImewLAHT1DadOky.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Rhaenyra parece se aproximar da vitória na guerra entre as duas facções da Casa Targaryen. Mas o equilíbrio de poder é frágil, e tudo pode mudar quando as lealdades mudam e novos personagens entram em cena.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green]|| [/COLOR][COLOR white]Minhas Aventuras com o Superman [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]3 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/r6RBRc8TU1wLufy9crh1th3jlgo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/MINHAS%20AVENTURAS%20COM%20O%20SUPERMAN-3-TEMPORADA</externallink>
@@ -17,17 +28,6 @@
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Em um futuro distante — muito depois do Império e da Aliança Rebelde, quando os Jedi já haviam se tornado lenda —, Lah Kara, filha de Lah Zhima, deixa seu lar ao lado de novos aliados Jedi para libertar o pai das garras dos Caçadores de Jedi. O pai de Kara é o único fabricante de sabres de luz conhecido na galáxia, o que torna o sabre de luz — e o próprio Zhima — um recurso inestimável.[/B][/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
-<channel><name>[COLOR green]|| [/COLOR][COLOR white]A Casa do Dragão [/COLOR][COLOR red][B]|| [/B][/COLOR][COLOR white]3 TEMPORADA[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/oKJDm4QCKbp6mR4FnxXrFlPJP8Y.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON-SERIES-EPISODIOS/refs/heads/main/CASA-DO-DRAGAO-3-TEMPORADA</externallink>
-<fanart>https://image.tmdb.org/t/p/original/h37hqVLmCW00ImewLAHT1DadOky.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
-[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Ficção[/B][/COLOR]
-[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Rhaenyra parece se aproximar da vitória na guerra entre as duas facções da Casa Targaryen. Mas o equilíbrio de poder é frágil, e tudo pode mudar quando as lealdades mudam e novos personagens entram em cena.[/B][/COLOR]</info>
 </channel> 
 </channels>
 
