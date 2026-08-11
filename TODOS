@@ -900,6 +900,17 @@ SERIES 2010
 SERIES 1999
 
 <channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Futurama[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/FUTURAMA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tx6Hviq7gkVB5Km6Eb65Enhkf6Z.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1999[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Fry era um simples entregador de pizza cuja vida parecia não ter nenhum propósito. Após ser congelado acidentalmente na véspera do Ano-Novo de 1999, ele desperta mil anos no futuro e ganha a chance de recomeçar em um mundo repleto de alienígenas e robôs.[/B][/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]One Piece[/COLOR][COLOR green] || [/COLOR][COLOR white][B]>>[/B] [/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/9ltisibeD4gzqjM1AzmQwCdyirQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/ONE-PIECE</externallink>
