@@ -3,7 +3,7 @@
 <thumbnail>https://image.tmdb.org/t/p/w1280/1O3ExMFvf2gUPD6WIyfD3dou9eB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/STAR%20WARS%3A%20VISIONS%20APRESENTA%20%E2%80%94%20A%20NONA%20JEDI</externallink>
 <fanart>https://image.tmdb.org/t/p/original/8ln6DSOJKJUSt1IETsfHkFj6rMY.jpg</fanart>
-<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]202[/B][/COLOR]
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2026[/B][/COLOR]
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Kara e sua equipe heterogenia Jedi partem em busca de mais Jedi dignos para lutar contra um senhor da guerra cada vez mais poderoso.[/B][/COLOR]</info>
 </channel> 
@@ -127,6 +127,19 @@ SERIES 2017
 [COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Drama[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood. 
 [/B][/COLOR]</info>
+</channel> 
+</channels>
+
+SERIES 1999
+
+<channels>
+<channel><name>[COLOR red][B]|| [/B][/COLOR][COLOR white]Futurama[/COLOR][COLOR green] || [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/TEMPORADAS-ON/refs/heads/main/FUTURAMA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tx6Hviq7gkVB5Km6Eb65Enhkf6Z.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]1999[/B][/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR] [COLOR white][B] Animação[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Fry era um simples entregador de pizza cuja vida parecia não ter nenhum propósito. Após ser congelado acidentalmente na véspera do Ano-Novo de 1999, ele desperta mil anos no futuro e ganha a chance de recomeçar em um mundo repleto de alienígenas e robôs.[/B][/COLOR]</info>
 </channel> 
 </channels>
 
